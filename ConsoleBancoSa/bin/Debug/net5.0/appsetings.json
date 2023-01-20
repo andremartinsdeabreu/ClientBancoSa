@@ -1,0 +1,4 @@
+{
+  "HttpBancoSaClient": "http://localhost:30004/api/Credito/",
+  "HttpsBancoSaClient": "https://localhost:44344/api/Credito/"
+}
